@@ -16,6 +16,8 @@ Process Control based on Message Passing Interface is a library that can easily 
 
 ## 第四个阶段
 
+## 总结
+
 设计思路
 ========
 
@@ -24,6 +26,8 @@ Process Control based on Message Passing Interface is a library that can easily 
 ## 对并行程序的理解
 
 ## 对计算机的理解
+
+## 参考思路
 
 感谢
 ====
