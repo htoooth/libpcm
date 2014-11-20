@@ -43,7 +43,7 @@ Process Control based on Message Passing Interface is a library that can easily 
 
 就是这样，这个工具被我叫成了`libpcm`，希望在__进程之间实现类似于`go-lang`中的`channel`模式__，
 
-### 以后，预言书
+### 以后，先知预言书
 以后的规划，是什么
 
 ## 开发阶段
